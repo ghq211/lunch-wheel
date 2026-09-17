@@ -3,3 +3,5 @@
 .intro p{font-size:16px}.food-chip{font-size:14px}.menu-help,.text-button{font-size:14px}.brand-en{font-size:12px}
 
 .wheel-center{padding:0;white-space:nowrap}.wheel-center span{flex-shrink:0}
+
+.preset-area{margin-top:17px;padding:14px;background:#f2f6e8;border:1px solid #e0e7d1;border-radius:12px}.preset-area>label{display:block;font-size:14px;font-weight:700;margin-bottom:9px}.preset-controls{display:flex;gap:8px}.preset-controls select{font:inherit;font-size:14px;min-width:0;flex:1;border:1px solid #cbd4b9;border-radius:8px;background:#fff;color:var(--ink);padding:10px 8px}.preset-controls button{font-size:14px;font-weight:650;white-space:nowrap;border:1px solid #b1d245;border-radius:8px;padding:10px;background:var(--green);color:var(--ink)}.preset-controls button:hover:not(:disabled){background:#b7e345}.preset-area p{font-size:12px;line-height:1.7;color:#758063;margin:8px 0 0}select:focus-visible{outline:3px solid #438a38;outline-offset:3px}select:disabled{opacity:.65;cursor:wait}@media(max-width:380px){.preset-controls{flex-direction:column}.preset-controls select{width:100%}}
